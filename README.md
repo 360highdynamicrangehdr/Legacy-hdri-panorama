@@ -14,3 +14,6 @@ romania
 | --- | --- | --- |
 |`environment_url`| Link către una sau mai multe panorame HDR echirectangulare în `hdr` sau `exr` tipul fisierului.|Lista de adrese URL separate prin punct și virgulă care se termină în `.hdr` sau `.exr`. |
 |`environment_name`| Lista de nume pentru medii. Necesar dacă se utilizează mai mult de un mediu. |Listă de șiruri separate prin punct și virgulă.|
+
+
+![image](https://user-images.githubusercontent.com/25839678/201399035-e95a9f24-9b17-4877-998a-87d845d3efc5.png)
