@@ -3,10 +3,11 @@
 `environment_url=https://example.exr;example2.exr,environment_name=example;example2`
 
 
-![image](https://user-images.githubusercontent.com/25839678/203621618-d41dbad4-d01f-4988-88a9-3b6b9c74b75b.png)
-
 ## `hdri-panorama.html`
 This view hdri panorama 360.
+
+![image](https://user-images.githubusercontent.com/25839678/203621618-d41dbad4-d01f-4988-88a9-3b6b9c74b75b.png)
+
 |Key|Description|Possible Values|
 | --- | --- | --- |
 |`environment_url`| Link to one or multiple equirectangular HDR panoramas in `hdr` or `exr` file format.|Semicolon-separated list of URLs ending in `.hdr` or `.exr`. |
