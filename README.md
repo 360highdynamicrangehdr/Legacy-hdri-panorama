@@ -1,5 +1,10 @@
 # hdri-panorama
 
+`environment_url=https://example.exr;example2.exr,environment_name=example;example2`
+
+
+![image](https://user-images.githubusercontent.com/25839678/203621618-d41dbad4-d01f-4988-88a9-3b6b9c74b75b.png)
+
 ## `hdri-panorama.html`
 This view hdri panorama 360.
 |Key|Description|Possible Values|
@@ -8,7 +13,7 @@ This view hdri panorama 360.
 |`environment_name`| List of names for the environments. Required if more than one environment is used. |Semicolon-separated list of Strings.|
 
 
-romania
+![image](https://user-images.githubusercontent.com/25839678/203621792-69773ce6-f530-4315-a8f4-00405af81277.png)
 
 |Cheie|Descriere|Valori posibile|
 | --- | --- | --- |
